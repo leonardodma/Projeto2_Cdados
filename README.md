@@ -6,4 +6,4 @@
 * Leonardo Malta
 
 ### Objetivo:
-O objetivo desse projeto é classificar se uma música é provavel ou não do Leonardo Malta gostar, baseado em seu histórico de músicas ouvidas.
+O objetivo desse projeto é classificar qual time escolhido teria mais chances de ganhar de outro a partir de uma base de dados.
