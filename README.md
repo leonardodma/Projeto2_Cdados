@@ -25,10 +25,10 @@ Algumas destas foram: sklearn, seaborn, statsmodels.api, numpy, matplotlib.pyplo
 ### Classificadores:
 
 ##### Tentativa 1:
-- É referente ao uso de todos os dados
+É referente ao uso de todos os dados
 
 ##### Tentativa 2: 
-- É referente ao uso das variáveis "relevantes"
+É referente ao uso das variáveis "relevantes"
 
 #### Random Forest:
 - É um método de Regressão baseado em várias árvores de probabilidade. 
