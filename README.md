@@ -6,7 +6,7 @@
 * Leonardo Malta
 
 ### Objetivo:
-O objetivo desse projeto é, através dos modelos de classificação escolhidos, poder estimar qual seria o ganhador da Premiere League. Aproveitando que o campeonato não terá continuidade (logo, pelo menos), vamos tentar adivinhar o vencedor.
+O objetivo desse projeto é, através dos modelos de classificação escolhidos, poder estimar dentre dois times da Premiere League, qual venceria. Aproveitando que o campeonato não terá continuidade (logo, pelo menos), vamos disponibilizar para o usuário a possibilidade de escolher dois times dentre todos eles para prever qual seria o resultado do jogo entre eles.
 
 ### Métodos:
 Para o projeto, utilizamos muitas funções, contidas em outras bibliotecas.
