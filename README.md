@@ -23,6 +23,7 @@ Algumas destas foram: sklearn, seaborn, statsmodels.api, numpy, matplotlib.pyplo
 - A partir do variance inflation, selecionamos as variáveis que de fato seriam relevantes e as utilizamos em alguns dos modelos de classificação.
 
 ### Classificadores:
+Fizemos pelo menos dois tipos de tentativas para cada método, sendo eles descritos abaixos.
 
 ##### Tentativa 1:
 É referente ao uso de todos os dados
@@ -47,3 +48,7 @@ Esse método é uma técnica de "bagging", já que as árvores funcionam paralel
 
 #### Gradient Boosting:
 - Boosting é uma técnica usada para montar diversas árvores modificadas dos dados. Cada árvore recebe um peso no processo, a partir de alguns cálculos feitos.
+
+### Conclusão:
+Testando todos esses métodos citados acima, o melhor resultado obtido foi o Gradient Boosting na segunda tentativa (usando apenas os features relevantes).
+O aplicamos para fazer a previsão os resultados dos jogos.
