@@ -40,7 +40,7 @@ Esse método é uma técnica de "bagging", já que as árvores funcionam paralel
 - A Regressão Multinomial é usada para relacionar uma variável nominal dependente (nesse caso, resultado de um jogo) e outras variáveis independentes (número de passes, time adversário, estádio).
 
 #### Regressão Naive Bayes Multinominal:
-- 
+- Naive Bayes é um método que aplica o teorema de Bayes (relacionado à probabilidade) usando as variáveis de maneira independente, como se uma não interferisse na outra, mesmo não sendo necessariamente assim ("naive" do inglês = ingênuo). Quando usado a Regressão Multinominal, é combinada uma probabilidade de distribuição com as cada variável.
 
 #### K-Nearest Neighbors:
 - Esse método assume que os fatores que estão mais relacionados são os que estão mais perto em distância e os utiliza para calcular o resultado final.
