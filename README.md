@@ -25,11 +25,9 @@ Algumas destas foram: sklearn, seaborn, statsmodels.api, numpy, matplotlib.pyplo
 ### Classificadores:
 Fizemos pelo menos dois tipos de tentativas para cada método, sendo eles descritos abaixos.
 
-##### Tentativa 1:
-É referente ao uso de todos os dados
+**Tentativa 1:** É referente ao uso de todos os dados
 
-##### Tentativa 2: 
-É referente ao uso das variáveis "relevantes"
+**Tentativa 2:** É referente ao uso das variáveis "relevantes"
 
 #### Random Forest:
 - É um método de Regressão baseado em várias árvores de probabilidade. 
