@@ -25,11 +25,25 @@ Algumas destas foram: sklearn, seaborn, statsmodels.api, numpy, matplotlib.pyplo
 ### Classificadores:
 
 ##### Tentativa 1:
--
+- É referente ao uso de todos os dados
+
 ##### Tentativa 2: 
+- É referente ao uso das variáveis "relevantes"
 
 #### Random Forest:
 - É um método de Regressão baseado em várias árvores de probabilidade. 
 Cada uma delas faz as probabilidades separadamente usando ordens diferentes entre suas variáveis. 
 Com isso, caso apresente algum erro, ele será minimizado.
 Esse método é uma técnica de "bagging", já que as árvores funcionam paralelamente e não interferem umas nas outras.
+
+#### Regressão Multinominal:
+- A Regressão Multinomial é usada para relacionar uma variável nominal dependente (nesse caso, resultado de um jogo) e outras variáveis independentes (número de passes, time adversário, estádio).
+
+#### Regressão Naive Bayes Multinominal:
+- 
+
+#### K-Nearest Neighbors:
+- Esse método assume que os fatores que estão mais relacionados são os que estão mais perto em distância e os utiliza para calcular o resultado final.
+
+#### Gradient Boosting:
+- Boosting é uma técnica usada para montar diversas árvores modificadas dos dados. Cada árvore recebe um peso no processo, a partir de alguns cálculos feitos.
